@@ -8,7 +8,7 @@ evitando el largo proceso que implica el encontrar vacantes disponibles.
 
 # Implementación:
 En este proyecto se utilizo php (back-end), html con css (front-end) y MySQL (base de datos).
-![](MYSQL-Logo.png)
+![](MySQL-Logo.png)
 ![](PHP-logo.png)
 ![](CSS3_and_HTML5_.png)
 
